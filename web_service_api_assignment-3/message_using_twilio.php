@@ -2,9 +2,9 @@
 // send message in number
 
 
-$account_sid = "AC324a3b0fea4a96155260dc1e7fee4b8d";
-$auth_token  = "9a51250129f4417af3c7977344e6b767";
-$twilio_number = "+13412214433"; // Your Twilio toll-free number
+$account_sid = "";
+$auth_token  = "";
+$twilio_number = ""; // Your Twilio toll-free number
 $to = "+91 8238489638";
 
 $data = http_build_query([
